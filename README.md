@@ -31,6 +31,10 @@ VALUES (1, 'Movies 🎞️'), (1, 'Lifting 💪'),
 
 Welcome to my GitHub portfolio! My name is **Priyankkumar Patel**, a 24-year-old programmer from **Boston, MA**. 🚀
 
+
+
+
+#Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyank1510&show_icons=true&theme=dracula)
 
 
